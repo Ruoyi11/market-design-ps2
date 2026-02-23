@@ -389,4 +389,4 @@ if __name__ == "__main__":
     # ---- Part 3: simulation ----
     avg_rank = simulate_efficiency(N=1000, base_seed=2026)
     print_efficiency_table(avg_rank)
-    Finish PS2 code and simulation
+ 
